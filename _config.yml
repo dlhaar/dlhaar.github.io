@@ -1,4 +1,6 @@
-theme: jekyll-theme-minimal
-permalink: /:categories/:year/:month/:title
 title: Deborah Haar
+logo: "images/logo.jpg"
 description: Project portfolio
+
+
+theme: jekyll-theme-minimal

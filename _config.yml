@@ -4,7 +4,7 @@ description: >
   Project portfolio
   <br><br>
   
-  <a href="https://www.linkedin.com/in/deborahlhaar">My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/deborahlhaar" target = "_blank" rel=" noopener noreferrer">My LinkedIn Profile</a>
   
   
 theme: jekyll-theme-minimal

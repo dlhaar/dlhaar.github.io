@@ -4,7 +4,7 @@
 
 ### Data Cleaning and Analysis
 
-[Examining NYC's SAT Scores](https://github.com/dlhaar/NYC-SAT/blob/main/NYC-SAT.ipynb)
+<a href="https://github.com/dlhaar/NYC-SAT/blob/main/NYC-SAT.ipynb" target="_blank>Examining NYC's SAT Scores</a>
 <img src="images/NYC-thumbnail.png?raw=true"/>
 
 ---

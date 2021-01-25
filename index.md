@@ -10,7 +10,7 @@
 ---
 
 ### Tableau
-Exploring DIVVY by income and zip code [(In progress)](https://public.tableau.com/views/divvy-income/Sheet2?:language=en&:display_count=y&publish=yes&:origin=viz_share_link){:target="_blank"}
-
+Exploring DIVVY by income and zip code
+<p><a href="https://public.tableau.com/views/divvy-income/Sheet2?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" target="_blank">(In progress)</a></p>
 
 ---

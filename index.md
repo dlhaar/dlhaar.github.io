@@ -10,4 +10,3 @@ This project looks at the relationship between SAT scores and various demographi
 
 
 <img src="images/NYC-thumbnail.png?raw=true"/>
----
